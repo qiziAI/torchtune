@@ -1,6 +1,6 @@
 # ---- All project specifications ---- #
 [project]
-name = "torchtune"
+name = "forked-torchtune"
 description = "A native-PyTorch library for LLM fine-tuning"
 readme = "README.md"
 requires-python = ">=3.8"
